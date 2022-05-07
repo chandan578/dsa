@@ -16,7 +16,7 @@ public class SimpleHashmapMethod {
         hMap.put("Bangal", 120);
         hMap.put("Jharkhand", 220);
         System.out.println(hMap);
-
+        //In hashmap, put method, get method and containsKey method take O(1) time 
         hMap.put("Bihar", 300);
         hMap.put("Delhi", 500);
         System.out.println(hMap);
